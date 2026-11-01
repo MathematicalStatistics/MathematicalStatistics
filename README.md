@@ -103,7 +103,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Minecraft:</h1>
 
 - [Minecraft](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Minecraft.md)
-- [GTNH](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
+- [GTNH (Gregtech: New Horizons)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/GTNH.md)
 
 # <h1 align="center">Misc:</h1>
   
