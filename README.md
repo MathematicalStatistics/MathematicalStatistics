@@ -2,7 +2,7 @@
 
 # <h1 align="center">My math Journey:</h1>
 
-For as long as I can remember, I’ve always loved math and numbers. I always tried to recognize a pattern into everything. I love methodical steps to problems and writing.
+For as long as I can remember, I’ve always loved math and numbers. I always tried to recognize a pattern into everything. I enjoy methodical steps to problems and writing.
 
 My majors throughout my university experience explain my journey: 
 - I first started as a [MathPhys major](https://www.drps.ed.ac.uk/21-22/dpt/utmapyb.htm) at the [UoE](https://www.ed.ac.uk/) because I loved both subjects in [high school](https://windermerehs.ocps.net/).
