@@ -48,9 +48,9 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
     - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
       
 - [Mathematical Physics](https://en.wikipedia.org/wiki/Mathematical_physics)
-  - [Magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
-  - [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
-  - [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
+  - [Magnetohydrodynamics (MHD)](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
+  - [Quantum Chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
+  - [Quantum Electrodynamics (QED)](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
     
 - [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics)
   - [Algebraic Stats](https://en.wikipedia.org/wiki/Algebraic_statistics)
