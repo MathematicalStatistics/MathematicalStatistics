@@ -70,6 +70,8 @@ My first inflection point in math was when I took [AP Calculus AB](https://apcen
 just stuck together like glue. Algebra and geometry made sense although I already took courses on those subjects. I loved using the techniques from previous math courses
 I used throughout my life.
 
+Physics also helped me w/ algebra.
+
 # <h1 align="center">Math Stats (the 3rd course in it):</h1> 
 
 [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the course where you get to derive probability distributions.
