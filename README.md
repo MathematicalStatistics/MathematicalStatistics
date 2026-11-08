@@ -80,7 +80,7 @@ During the summer of 2026, I was taking a [mathematical statistics](https://onli
 it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be applied to everything in the universe. Some sort of
 philosophical awakening to me. This made me reason everything with [formal logic](https://en.wikipedia.org/wiki/Logic). 
 
-# <h1 align="center">MathStats:</h1>
+# <h1 align="center">[MathStats:](https://online.stat.psu.edu/stat415/)</h1>
 
 - [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
 
