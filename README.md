@@ -72,7 +72,7 @@ I used throughout my life.
 
 Physics also helped me w/ algebra.
 
-# <h1 align="center">Math Stats (the 3rd course in it):</h1> 
+# <h1 align="center">[Math Stats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
 
 [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the course where you get to derive probability distributions.
 
