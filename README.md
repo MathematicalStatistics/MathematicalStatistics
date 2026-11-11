@@ -63,6 +63,8 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
 
 I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
 
+Feel free to fork / archive my work too.
+
 # <h1 align="center">My Math / Stats [Inflection Points](https://en.wikipedia.org/wiki/Inflection_point):</h1>
 
 # <h1 align="center">Calculus:</h1> 
