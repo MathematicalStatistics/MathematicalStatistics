@@ -61,7 +61,9 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
   - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
     - [Probability](https://online.stat.psu.edu/stat414/)
 
-I'm always willing to learn something new. I'm eager to learn math applied to the universe (aspiring polymath). I love helping others learn math.
+- I'm always willing to learn something new.
+- I'm eager to learn math applied to the universe (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath)).
+- I love helping others learn math.
 
 Feel free to fork / archive my work too.
 
