@@ -99,7 +99,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Culture:</h1>
 
 - [Culture (Languages & Food)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Culture.md)
-- [Pop culture](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Popculture.md)
+- [Pop culture (Books, Shows, & Movies)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Popculture.md)
 
 # <h1 align="center">Subjects:</h1>
   
