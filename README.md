@@ -93,7 +93,7 @@ philosophical awakening to me. This made me reason everything with [formal logic
   
 - [Courses](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Courses.md)
 - [CV (Skills & Courses)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/CV.md)
-- [Research](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Research.md)
+- [Research (Pure & Applied Math)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Research.md) 
 - [Résumé](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/R%C3%A9sum%C3%A9.md)
 
 # <h1 align="center">Culture:</h1>
