@@ -1,6 +1,6 @@
 # <h1 align="center">[Polymath](https://en.wikipedia.org/wiki/Polymath) (Math Mage / [Stats Sorcerer](https://www.youtube.com/@themathsorcerer))</h1>
 
-# <h1 align="center">My math Journey:</h1>
+# <h1 align="center">My Math Journey:</h1>
 
 For as long as I can remember, I’ve always loved math and numbers. I always tried to recognize a pattern into everything. I enjoy methodical steps to problems and writing.
 
