@@ -87,6 +87,10 @@ philosophical awakening to me. This made me reason everything with [formal logic
 
 [MathStats](https://online.stat.psu.edu/stat415/) fuses all of the STEM and humanities subjects. It is also the foundation for [stat mech](https://en.wikipedia.org/wiki/Statistical_mechanics) & [thermo](https://en.wikipedia.org/wiki/Thermodynamics). Also used in [aerospace](https://en.wikipedia.org/wiki/Aerospace_engineering) & [industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering).
 
+[MathStats](https://online.stat.psu.edu/stat415/) is also used in [MathPhys](https://www.youtube.com/watch?v=fhE7EnIVPHc&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fstudy.ed.ac.uk%2F)
+
+[Probability theory](https://online.stat.psu.edu/stat414/) shows up in [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) notation.
+
 # <h1 align="center">[MathStats:](https://online.stat.psu.edu/stat415/)</h1>
 
 - [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
