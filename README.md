@@ -71,11 +71,11 @@ Feel free to fork / archive my work too.
 
 # <h1 align="center">Calculus:</h1> 
 
-My first inflection point in math was when I took [AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) my junior year of high school. All of the previous math I learned
-just stuck together like glue. Algebra and geometry made sense although I already took courses on those subjects. I loved using the techniques from previous math courses
+My first [inflection point](https://en.wikipedia.org/wiki/Inflection_point) in math was when I took [AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) my junior year of high school. All of the previous math I learned
+just stuck together like glue. [Algebra](https://en.wikipedia.org/wiki/Elementary_algebra) and [geometry](https://www.mathsisfun.com/links/curriculum-high-school-geometry.html) made sense although I already took courses on those subjects. I loved using the techniques from previous math courses
 I used throughout my life.
 
-Physics also helped me w/ algebra.
+[Physics](https://en.wikipedia.org/wiki/Physics) also helped me w/ algebra.
 
 # <h1 align="center">[Math Stats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
 
