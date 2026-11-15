@@ -50,6 +50,7 @@ My programming courses felt similar to [formal logic](https://en.wikipedia.org/w
 - [Mathematical Physics](https://en.wikipedia.org/wiki/Mathematical_physics)
   - [Electrohydrodynamics (EHD)](https://en.wikipedia.org/wiki/Electrohydrodynamics)
   - [Magnetohydrodynamics (MHD)](https://en.wikipedia.org/wiki/Magnetohydrodynamics)
+  - [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry) ([Modpack](https://github.com/SymmetricDevs/Supersymmetry))
   - [Quantum Chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
   - [Quantum Electrodynamics (QED)](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
     
