@@ -110,8 +110,8 @@ philosophical awakening to me. This made me reason everything with [formal logic
 # <h1 align="center">Subjects:</h1>
   
 - [Everything](https://github.com/standardgalactic)
-- [Humanities](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Humanities.md)
-- [STEM](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/STEM.md)
+- [Humanities (Soft Sciences)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Humanities.md)
+- [STEM (Science, Technology, Engineering, & Mathematics)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/STEM.md)
 
 # <h1 align="center">Minecraft:</h1>
 
