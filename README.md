@@ -69,7 +69,7 @@ Feel free to fork / archive my work too.
 
 # <h1 align="center">My Math / Stats [Inflection Points](https://en.wikipedia.org/wiki/Inflection_point):</h1>
 
-# <h1 align="center">Calculus:</h1> 
+# <h1 align="center">[AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) ([Calc 1](https://www.youtube.com/@ProfessorLeonard)):</h1> 
 
 My first [inflection point](https://en.wikipedia.org/wiki/Inflection_point) in math was when I took [AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) my junior year of high school. All of the previous math I learned
 just stuck together like glue. [Algebra](https://en.wikipedia.org/wiki/Elementary_algebra) and [geometry](https://www.mathsisfun.com/links/curriculum-high-school-geometry.html) made sense although I already took courses on those subjects. I loved using the techniques from previous math courses
