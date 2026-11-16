@@ -81,7 +81,7 @@ I used throughout my life.
 
 The word problems were interesting and hinted that I should study [applied math](https://en.wikipedia.org/wiki/Applied_mathematics). The derivations were fun as well (I learned how to derive position, [velocity](https://en.wikipedia.org/wiki/Velocity), and [acceleration](https://en.wikipedia.org/wiki/Acceleration) through first principles).
 
-[Physics](https://en.wikipedia.org/wiki/Physics) also helped me w/ algebra.
+[Physics](https://en.wikipedia.org/wiki/Physics) helped me w/ algebra.
 
 # <h1 align="center">[Math Stats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
 
