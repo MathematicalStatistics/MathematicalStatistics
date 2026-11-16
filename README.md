@@ -77,7 +77,9 @@ Knowledge should be free.
 
 My first [inflection point](https://en.wikipedia.org/wiki/Inflection_point) in math was when I took [AP Calculus AB](https://apcentral.collegeboard.org/courses/ap-calculus-ab) my junior year of high school. All of the previous math I learned
 just stuck together like glue. [Algebra](https://en.wikipedia.org/wiki/Elementary_algebra) and [geometry](https://www.mathsisfun.com/links/curriculum-high-school-geometry.html) made sense although I already took courses on those subjects. I loved using the techniques from previous math courses
-I used throughout my life. The word problems were interesting and hinted that I should study [applied math](https://en.wikipedia.org/wiki/Applied_mathematics). The derivations were fun as well (I learned how to derive position, [velocity](https://en.wikipedia.org/wiki/Velocity), and [acceleration](https://en.wikipedia.org/wiki/Acceleration) through first principles).
+I used throughout my life. 
+
+The word problems were interesting and hinted that I should study [applied math](https://en.wikipedia.org/wiki/Applied_mathematics). The derivations were fun as well (I learned how to derive position, [velocity](https://en.wikipedia.org/wiki/Velocity), and [acceleration](https://en.wikipedia.org/wiki/Acceleration) through first principles).
 
 [Physics](https://en.wikipedia.org/wiki/Physics) also helped me w/ algebra.
 
@@ -94,6 +96,8 @@ philosophical awakening to me. This made me reason everything with [formal logic
 [MathStats](https://online.stat.psu.edu/stat415/) is also used in [MathPhys](https://www.youtube.com/watch?v=fhE7EnIVPHc&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fstudy.ed.ac.uk%2F)
 
 [Probability theory](https://online.stat.psu.edu/stat414/) shows up in [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) notation.
+
+There's also applications to psychology and philosophy.
 
 # <h1 align="center">[MathStats:](https://online.stat.psu.edu/stat415/)</h1>
 
