@@ -85,7 +85,7 @@ The word problems were interesting and hinted that I should study [applied math]
 
 # <h1 align="center">[Math Stats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
 
-[Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the stats equivalent of [real analysis](https://en.wikipedia.org/wiki/Real_analysis) more or less. This is the course where you get to derive [probability](https://online.stat.psu.edu/stat414/) distributions.
+[Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the stats equivalent of [real analysis](https://en.wikipedia.org/wiki/Real_analysis) more or less. In this course, you get to derive [probability](https://online.stat.psu.edu/stat414/) distributions.
 
 During the summer of 2026, I was taking a [mathematical statistics](https://online.stat.psu.edu/stat415/) course. I was stressing over the course but all that struggling in the end was worth
 it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be applied to everything in the universe. Some sort of
