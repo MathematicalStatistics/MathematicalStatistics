@@ -94,13 +94,20 @@ During the summer of 2026, I was taking a [mathematical statistics](https://onli
 it. This made me realize I can study abstract concepts in math as well. All the math I learned throughout the life can be applied to everything in the universe. Some sort of
 philosophical awakening to me. This made me reason everything with [formal logic](https://en.wikipedia.org/wiki/Logic). 
 
-[MathStats](https://online.stat.psu.edu/stat415/) fuses all of the STEM and humanities subjects. It is also the foundation for [stat mech](https://en.wikipedia.org/wiki/Statistical_mechanics) & [thermo](https://en.wikipedia.org/wiki/Thermodynamics). Also used in [aerospace](https://en.wikipedia.org/wiki/Aerospace_engineering) & [industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering).
+[MathStats](https://online.stat.psu.edu/stat415/) fuses all of the STEM and humanities subjects. 
+
+[MathStats](https://online.stat.psu.edu/stat415/) is found in the following subjects:
+
+- [Stat Mech](https://en.wikipedia.org/wiki/Statistical_mechanics)
+- [Thermo](https://en.wikipedia.org/wiki/Thermodynamics)
+- [Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
+- [Industrial Engineering](https://en.wikipedia.org/wiki/Industrial_engineering).
 
 [MathStats](https://online.stat.psu.edu/stat415/) is also used in [MathPhys](https://www.youtube.com/watch?v=fhE7EnIVPHc&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fstudy.ed.ac.uk%2F)
 
 [Probability theory](https://online.stat.psu.edu/stat414/) shows up in [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) notation.
 
-There's also applications to psychology and philosophy.
+There's applications to psychology and philosophy.
 
 # <h1 align="center">[MathStats:](https://online.stat.psu.edu/stat415/)</h1>
 
