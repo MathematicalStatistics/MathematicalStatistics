@@ -86,7 +86,7 @@ The word problems were interesting and hinted that I should study [applied math]
 
 [Physics](https://en.wikipedia.org/wiki/Physics) helped me w/ algebra.
 
-# <h1 align="center">[Math Stats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
+# <h1 align="center">[MathStats](https://online.stat.psu.edu/stat415/) (the 3rd course in it):</h1> 
 
 [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) (the intersection of math and statistics). This is the stats equivalent of [real analysis](https://en.wikipedia.org/wiki/Real_analysis) more or less. In this course, you get to derive [probability](https://online.stat.psu.edu/stat414/) distributions.
 
