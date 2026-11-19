@@ -116,7 +116,7 @@ There's also applications to psychology and philosophy.
 # <h1 align="center">Culture:</h1>
 
 - [Culture (Languages, Food, & Countries)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Culture.md)
-- [Pop culture (Books, Shows, Movies, & YouTube)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Popculture.md)
+- [Pop culture (Books, Shows, Movies, & YouTube Channels)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Popculture.md)
 
 # <h1 align="center">Subjects:</h1>
   
