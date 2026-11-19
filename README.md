@@ -18,7 +18,7 @@ I’ve realized how much math and logic is behind the skills I learned too:
 - [Tableau](https://www.tableau.com/) can make beautiful dashboards with all of the data
 - [Minitab](https://en.wikipedia.org/wiki/Minitab) feels like [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) but specifically for statisticians.
 
-I’ve also learned real-world applications to other subjects. In [time series](https://online.stat.psu.edu/stat510/), I can apply it to stock markets. 
+I’ve learned real-world applications to other subjects. In [time series](https://online.stat.psu.edu/stat510/), I can apply it to stock markets. 
 For [data mining](https:/online.stat.psu.edu/stat508/), I can apply that to AI and ML algorithms. [Mathematical modeling](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846)
 taught me you can’t accurately model all physical phenomena through math equations (there is always some error or epsilon term).
 
