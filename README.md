@@ -23,9 +23,11 @@ I’ve learned real-world applications to other subjects:
 - For [data mining](https:/online.stat.psu.edu/stat508/), I can apply that to AI and ML algorithms.
 - [Mathematical modeling](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116846) taught me you can’t accurately model all physical phenomena through math equations (there is always some error or epsilon term).
 
-Taking courses in other disciplines was also interesting for me too. Like in [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878), the course had lots of stats
-behind the data analysis. Using [regression methods](https://en.wikipedia.org/wiki/Regression_analysis) to predict new values in business settings. 
-My programming courses felt similar to [formal logic](https://en.wikipedia.org/wiki/Logic).
+Taking courses in other disciplines was also interesting for me too: 
+- Like in [ISM 4641](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=116878), the course had lots of stats
+behind the data analysis.
+- Using [regression methods](https://en.wikipedia.org/wiki/Regression_analysis) to predict new values in business settings. 
+- My programming courses felt similar to [formal logic](https://en.wikipedia.org/wiki/Logic).
 
 # Some of My research interests include the following applied math topics: 
 
