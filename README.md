@@ -109,10 +109,6 @@ philosophical awakening to me. This made me reason everything with [formal logic
 
 There's applications to psychology and philosophy.
 
-# <h1 align="center">[MathStats:](https://online.stat.psu.edu/stat415/)</h1>
-
-- [What is MathStats?](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/WhatIsMathStats.md)
-
 # <h1 align="center">Academics:</h1>
   
 - [Courses](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Courses.md)
