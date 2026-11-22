@@ -8,7 +8,7 @@ My majors throughout my university experience explain my journey:
 - I first started as a [MathPhys major](https://www.drps.ed.ac.uk/21-22/dpt/utmapyb.htm) at the [UoE](https://www.ed.ac.uk/) because I loved both subjects in [high school](https://windermerehs.ocps.net/).
 -  Once I took [MfP2](https://www.drps.ed.ac.uk/21-22/dpt/cxphys08036.htm), I realized that I particularly didn't like that area of physics ([Series Expansion](https://en.wikipedia.org/wiki/Series_expansion)).
 -  I then decided to try [applied math](https://catalog.usf.edu/preview_program.php?catoid=25&poid=13237) at USF because I struggled writing my own proofs (which is a decent chunk of [pure math](https://en.wikipedia.org/wiki/Pure_mathematics)).
--  I realized I liked my stats courses more after taking [probability theory](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503) and [MathStats](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501).
+-  I realized I liked my stats courses more after taking [Probability Theory](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114503) and [MathStats](https://catalog.usf.edu/preview_course_nopop.php?catoid=25&coid=114501).
 -  I then decided to do the [MAS program](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics) at [PSU](https://en.wikipedia.org/wiki/Pennsylvania_State_University) to learn about the applications of statistics to other subjects like economics & AI.
 
 I’ve realized how much math and logic is behind the skills I learned too: 
