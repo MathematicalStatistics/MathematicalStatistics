@@ -60,7 +60,7 @@ behind the data analysis.
     
 - [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics)
   - [Algebraic Stats](https://en.wikipedia.org/wiki/Algebraic_statistics)
-  - [Stat Manifolds](https://en.wikipedia.org/wiki/Statistical_manifold)
+  - [Stat Manifolds](https://en.wikipedia.org/wiki/Statistical_manifold) (if I had to do a PhD, it would be on this topic)
     
 - [Meteorology](https://en.wikipedia.org/wiki/Meteorology)
   - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
