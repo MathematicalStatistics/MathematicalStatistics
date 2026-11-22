@@ -111,7 +111,7 @@ There's applications to psychology and philosophy.
 
 # <h1 align="center">Academics:</h1>
   
-- [Courses](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Courses.md)
+- [Courses (Planning)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Courses.md)
 - [CV (Skills & Courses)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/CV.md)
 - [Research (Pure & Applied Math)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Research.md) 
 - [Résumé](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/R%C3%A9sum%C3%A9.md)
