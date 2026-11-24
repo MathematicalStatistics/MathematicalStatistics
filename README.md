@@ -12,8 +12,8 @@ My majors throughout my university experience explain my journey:
 -  I then decided to do the [MAS program](https://science.psu.edu/stat/graduate-programs/master-of-applied-statistics) at [PSU](https://en.wikipedia.org/wiki/Pennsylvania_State_University) to learn about the applications of statistics to other subjects like economics & AI.
 
 I’ve realized how much math and logic is behind the skills I learned too: 
-- I think of [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) as one giant matrix from linear algebra
-- [R](https:/en.wikipedia.org/wiki/RStudio) is a programming language designed specifically for statisticians
+- I think of [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) as one giant [matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)) from [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- [R](https:/en.wikipedia.org/wiki/RStudio) is a programming language designed specifically for [statisticians](https://en.wikipedia.org/wiki/Statistician)
 - Technical writing is very methodical in the sense that you first write code, get an output, and then interpret the results
 - [Tableau](https://www.tableau.com/) can make beautiful dashboards with all of the data
 - [Minitab](https://en.wikipedia.org/wiki/Minitab) feels like [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) but specifically for statisticians.
