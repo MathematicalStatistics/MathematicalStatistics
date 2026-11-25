@@ -136,7 +136,7 @@ There's applications to psychology and philosophy.
   
 - [Quotes](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Quotes.md)
 - [Projects (WIP)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/Projects%20(WIP).md)
-- [To-Do](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/To-Do.md)
+- [To-Do (Goal, Academics)](https://github.com/MathematicalStatistics/My-Math-Journey/blob/main/To-Do.md)
 
 # <h1 align="center">Repositories:</h1>
 
